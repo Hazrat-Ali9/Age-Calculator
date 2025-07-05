@@ -11,7 +11,7 @@ function calculateAge() {
     resultEl.innerText = `Your age is ${age} ${age > 1 ? "years" : "year"} old`;
   }
 }
-
+// Script js
 function getAge(birthdayValue) {
   const currentDate = new Date();
   const birthdayDate = new Date(birthdayValue);
