@@ -20,10 +20,5 @@ The **Age Calculator** 🕰️ computes your age by taking your date of birth as
    
 2. Open `index.html` in your web browser to start using the Age Calculator. 🌐
 
-## 📸 Screenshots (Output)
-
-Here’s a preview of the Age Calculator in action:
-
-![AGE CALCULATOR]()
 
 Discover your age with the Age Calculator! 🎂 It’s quick, easy to use, and perfect for everyday use. 🌟 Feel free to share your feedback or contribute to the project by making a pull request. Enjoy calculating your age! 📊✨
